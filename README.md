@@ -3,11 +3,7 @@
 
 - Experienced **Luau,Javascript,Ruby,HTML,python**
 
-- All of my scripts are on [https://discord.gg/vxspotproject](https://discord.gg/vxspotproject)
-
 - Ask me about **IP logging,Scripting.**
-
-- How to reach me **.ivae_**
 
 - Fun fact **I've been a lua scripter for 3 years.**
 
